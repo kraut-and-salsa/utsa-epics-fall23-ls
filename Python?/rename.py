@@ -1,6 +1,6 @@
 import os
 
-# Replace this with your folder path
+# Replace this with your folder path LS
 folder_path = '/Users/lukasalcedo/Documents/Python?'
 
 # Get a list of all files in the folder
